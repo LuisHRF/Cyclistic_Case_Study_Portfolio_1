@@ -18,7 +18,7 @@ I have decided to use R for convenience. First of all, when managing such a larg
 My choice of R over Python comes from me feeling more comfortable in this ecosystem.
 
 I have carried out the entire process in RStudio following guidelines and correcting errors.
-##Transforming data
+## Transforming data
 The first thing was to combine the 12 files into one so that I could work with all the data at the same time when necessary. I used the **bind_rows()** function to bind all the files together.
 
 From that moment on, create a **head()** of the first 100 rows to be able to work faster and test code.
