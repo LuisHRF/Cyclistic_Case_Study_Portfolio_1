@@ -12,7 +12,7 @@ The study must be carried out with historical travel data in the last 12 months 
 I have used the data for the 12 months of 2023, as it is the most recent. At first, I decided not to delete any columns since there was no sensitive information (such as credit cards) and everything was anonymized.
 
 The data is made up of 12 .csv each with 13 columns. In total, there are 5,712,861 rows of data.
-##Tools
+## Tools
 I have decided to use R for convenience. First of all, when managing such a large number of rows and columns at the same time, I ruled out using spreadsheets, as it could be time-consuming and I found it much less convenient.
 
 My choice of R over Python comes from me feeling more comfortable in this ecosystem.
